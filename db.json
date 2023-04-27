@@ -63,7 +63,8 @@
           "fee": "12.0% fee"
         },
         "totalFinanced": "-",
-        "paymentAmount": "$100,500.00"
+        "paymentAmount": "$100,500.00",
+        "totalAvailable": "$100,500.00"
       },
       {
         "id": 2,
@@ -76,7 +77,8 @@
           "fee": "12.0% fee"
         },
         "totalFinanced": "-",
-        "paymentAmount": "$80,970.00"
+        "paymentAmount": "$80,970.00",
+        "totalAvailable": "$80,970.00"
       },
       {
         "id": 3,
@@ -89,7 +91,8 @@
           "fee": "12.0% fee"
         },
         "totalFinanced": "-",
-        "paymentAmount": "$150,900.00"
+        "paymentAmount": "$150,900.00",
+        "totalAvailable": "$150,900.00"
       },
       {
         "id": 4,
@@ -102,7 +105,8 @@
           "fee": "12.0% fee"
         },
         "totalFinanced": "-",
-        "paymentAmount": "$130,500.00"
+        "paymentAmount": "$130,500.00",
+        "totalAvailable": "$130,500.00"
       },
       {
         "id": 5,
@@ -115,11 +119,12 @@
           "fee": "12.0% fee"
         },
         "totalFinanced": "-",
-        "paymentAmount": "$90,540.00"
+        "paymentAmount": "$90,540.00",
+        "totalAvailable": "$90,540.00"
       }
     ],
     "totalAmount": {
-      "AvailableCredit": 37130
+      "AvailableCredit": 1000000
     },
     "mycashkicks": [
       {
@@ -165,28 +170,8 @@
         },
         "totalFinanced": 362370,
         "id": 4
-      },
-      {
-        "name": "test4",
-        "status": "pending",
-        "maturity": "Apr 25,2023",
-        "totalRecieved": {
-          "totalRecieved": 0,
-          "totalInterestrate": "12.0% fee"
-        },
-        "totalFinanced": 0,
-        "id": 5
-      },
-      {
-        "name": "test5",
-        "status": "pending",
-        "maturity": "Apr 25,2023",
-        "totalRecieved": {
-          "totalRecieved": 0,
-          "totalInterestrate": "12.0% fee"
-        },
-        "totalFinanced": 0,
-        "id": 6
       }
+      
+     
     ]
   }
